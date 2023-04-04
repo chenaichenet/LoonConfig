@@ -1,0 +1,12 @@
+# NAME: Proxy
+# DESCIPTION: 需要代理的配置
+# AUTHOR: ChetChen
+# REPO: https://github.com/chenaichenet/LoonConfig
+
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,stackoverflow
+DOMAIN-KEYWORD,wikimedia
+DOMAIN-KEYWORD,pixiv
