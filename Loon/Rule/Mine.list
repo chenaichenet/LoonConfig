@@ -1,0 +1,17 @@
+# NAME: Mine
+# DESCIPTION: 自用需要代理的配置
+# AUTHOR: ChenaiChenet
+# REPO: https://github.com/chenaichenet/ProxyConfig
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,youtube.com
+DOMAIN-KEYWORD,youtube.co
+DOMAIN-KEYWORD,youtubego
+DOMAIN-KEYWORD,stackoverflow
+DOMAIN-KEYWORD,wikimedia
+DOMAIN-KEYWORD,pixiv
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,telegram
+DOMAIN-KEYWORD,tubemaxapp
